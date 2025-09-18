@@ -1,5 +1,3 @@
-# NAME : NAVEEN KUMAR T
-# REG NO : 212223220067
 # Ex-02 InformationGathering
 Information Gathering Techiques
 
