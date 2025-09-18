@@ -82,19 +82,24 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 <img width="1919" height="922" alt="479588035-3fd65f7b-6a24-41dc-b8b5-f1aee477132a" src="https://github.com/user-attachments/assets/87be68bf-ab41-4d29-8661-c529d7ec62ef" />
 
 ### ping command :
-<img width="735" height="694" alt="479587484-354b4935-5a03-4c5f-8637-b7b749d157a4" src="https://github.com/user-attachments/assets/4920cc03-d192-421b-9ee0-46b06693150f" />
+<img width="1352" height="672" alt="Screenshot 2025-09-18 084850" src="https://github.com/user-attachments/assets/a2744b0b-93a5-4443-8c7b-f78aa0aa4868" />
+
 
 ### whois :
-<img width="760" height="742" alt="479588652-79694cd4-c12c-4d63-b313-913e1506a733" src="https://github.com/user-attachments/assets/09b65619-0ca7-440e-b4a5-f8ec6808ffff" />
+<img width="1328" height="694" alt="image" src="https://github.com/user-attachments/assets/486ce28a-9018-41db-aef1-f5269fd44e94" />
+
 
 ### netcat :
-<img width="665" height="108" alt="479590058-bb93be15-acb6-4473-bc3b-590e015f712c" src="https://github.com/user-attachments/assets/6954ec15-8670-45b8-95a7-24f89e6b55f0" />
+<img width="750" height="128" alt="image" src="https://github.com/user-attachments/assets/c1ece27b-e23c-4d30-bd9e-02d0f6386012" />
+
 
 ### nmap :
-<img width="637" height="261" alt="479590448-37659d82-c9f5-47c1-a5bc-4baff004e2db" src="https://github.com/user-attachments/assets/4b89b4df-b5d1-4876-86d2-b8298e257310" />
+<img width="1007" height="406" alt="image" src="https://github.com/user-attachments/assets/776e3f9f-22c5-4f68-9da1-2f39d23bb0f8" />
+
 
 ### whatweb :
-<img width="745" height="197" alt="479590853-928a6c89-b160-421c-add3-4dd7bd400aa0" src="https://github.com/user-attachments/assets/09fa27d3-73f2-4874-b009-378154915649" />
+<img width="1145" height="642" alt="image" src="https://github.com/user-attachments/assets/e80e34df-02e0-4492-baac-c93ce9e1a73d" />
+
 
 ### httprint :
 <img width="630" height="208" alt="479598583-25d1d98e-6ccd-4459-957f-c91ac4edd97e" src="https://github.com/user-attachments/assets/b671f174-01c3-4154-8801-e1b7f21dae74" />
