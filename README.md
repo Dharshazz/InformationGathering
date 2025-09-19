@@ -102,13 +102,15 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ### httprint :
-<img width="630" height="208" alt="479598583-25d1d98e-6ccd-4459-957f-c91ac4edd97e" src="https://github.com/user-attachments/assets/b671f174-01c3-4154-8801-e1b7f21dae74" />
+<img width="734" height="270" alt="image" src="https://github.com/user-attachments/assets/0cbffa40-8f05-4203-b2e4-0cee605ebaa6" />
+
 
 ### TCP traceroute :
-<img width="747" height="394" alt="479599153-c957bd67-1b5e-42ba-baee-1fa5332cbb47" src="https://github.com/user-attachments/assets/d80ebeae-a9d1-45b2-b3ec-e2241150a1a2" />
+<img width="756" height="350" alt="image" src="https://github.com/user-attachments/assets/b5e3d730-6063-4e1e-b246-1ef486353d4f" />
+
 
 ### UDP traceroute :
-<img width="731" height="527" alt="479599727-7478e1f6-9ed0-4a13-8629-fed1faa85635" src="https://github.com/user-attachments/assets/2780d89c-2653-4b30-b5e9-ff99b4aeb0ee" />
+<img width="1148" height="663" alt="image" src="https://github.com/user-attachments/assets/7a726f73-1223-404a-838f-f7f589a67568" />
 
 
 ## RESULT:
